@@ -16,6 +16,7 @@ All notable changes to this project will be documented in this file.
 - [CLI] `compare` command now checks positive and negative rather than -1/+1 (#1649 by: dbent; reviewed: Daz)
 - [GUI] In windows launch KSP_x64.exe by default rather than KSP.exe. (#1711 by plague006; reviewed: dbent)
 - [Core] Unlicense added to CKAN as an option for mods. (#1737 by plague006; reviewed: techman83)
+- [Cmdline] `ckan.exe ksp list` now prints its output as a table and includes the version of the installation and its default status. (#1656 by: dbent)
 
 ### Internal
 
